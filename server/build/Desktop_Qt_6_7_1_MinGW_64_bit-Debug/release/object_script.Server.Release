@@ -1,0 +1,11 @@
+release/ChatProtocol.o
+release/ClientChatWidget.o
+release/ClientManager.o
+release/ServerManager.o
+release/main.o
+release/mainwindow.o
+release/qrc_icons.o
+release/moc_ClientChatWidget.o
+release/moc_ClientManager.o
+release/moc_ServerManager.o
+release/moc_mainwindow.o

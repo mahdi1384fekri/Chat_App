@@ -1,0 +1,11 @@
+debug/ChatProtocol.o
+debug/ClientChatWidget.o
+debug/ClientManager.o
+debug/ServerManager.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_icons.o
+debug/moc_ClientChatWidget.o
+debug/moc_ClientManager.o
+debug/moc_ServerManager.o
+debug/moc_mainwindow.o
